@@ -1,0 +1,8 @@
+Tweepy-
+command: pip install tweepy
+
+TextBlob-
+command: pip install textblob
+
+ NLTK corpora-
+ command: python -m textblob.download_corpora
